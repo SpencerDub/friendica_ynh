@@ -8,7 +8,7 @@
 If you don't have YunoHost, please see [here](https://yunohost.org/#/install) to learn how to install and enjoy it.*
 
 ## Overview
-Friendica is a software to create a distributed social network. It is part of the federation of servers that are running with Friendica, Diaspora and Hubzilla which are compatible to each other.
+Friendica is a distributed social network. It is compatible via federation with other servers running [diaspora\*](https://diasporafoundation.org/), [Hubzilla](https://hubzilla.org//page/hubzilla/hubzilla-project), and services built on the ActivityPub protocol, including [Mastodon](https://joinmastodon.org/) and [PeerTube](https://joinpeertube.org/).
 
 **Version:** 2021.01
 
