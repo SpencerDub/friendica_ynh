@@ -10,7 +10,7 @@ If you don't have YunoHost, please see [here](https://yunohost.org/#/install) to
 ## Overview
 Friendica is a distributed social network. It is compatible via federation with other servers running [diaspora\*](https://diasporafoundation.org/), [Hubzilla](https://hubzilla.org//page/hubzilla/hubzilla-project), and services built on the ActivityPub protocol, including [Mastodon](https://joinmastodon.org/) and [PeerTube](https://joinpeertube.org/).
 
-**Version:** 2021.01
+**Version:** 2021.04
 
 Current snapshot in *sources*:
 
