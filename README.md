@@ -14,8 +14,8 @@ Friendica is a distributed social network. It is compatible via federation with 
 
 Current snapshot in *sources*:
 
-* https://github.com/friendica/friendica: 2021.01
-* https://github.com/friendica/friendica-addons: 2021.01
+* https://github.com/friendica/friendica: 2021.04
+* https://github.com/friendica/friendica-addons: 2021.04
 
 **Warning:** It's advised to use Barracuda as MySQL DB file format for your Friendica database.
 
